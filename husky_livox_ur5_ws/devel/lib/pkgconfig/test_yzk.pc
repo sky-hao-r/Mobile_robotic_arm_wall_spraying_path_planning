@@ -1,0 +1,8 @@
+prefix=/home/yuezk/project_finished/husky_livox_ur5_ws/devel
+
+Name: test_yzk
+Description: Description of test_yzk
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

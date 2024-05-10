@@ -1,0 +1,8 @@
+prefix=/home/yuezk/project_finished/husky_livox_ur5_ws/devel
+
+Name: husky_ur3_gripper_moveit_config
+Description: Description of husky_ur3_gripper_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

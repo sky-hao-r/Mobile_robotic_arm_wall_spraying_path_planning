@@ -1,0 +1,8 @@
+prefix=/home/yuezk/project_finished/husky_livox_ur5_ws/devel
+
+Name: husky_ur3_gazebo
+Description: Description of husky_ur3_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs

@@ -1,0 +1,8 @@
+prefix=/home/yuezk/project_finished/husky_livox_ur5_ws/devel
+
+Name: livox_laser_simulation
+Description: Description of livox_laser_simulation
+Version: 0.0.0
+Cflags: -I/home/yuezk/project_finished/husky_livox_ur5_ws/src/livox_laser_simulation-main/include
+Libs: -L${prefix}/lib -llivox_laser_simulation
+Requires: tf

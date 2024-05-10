@@ -1,0 +1,8 @@
+prefix=/home/yuezk/project_finished/husky_livox_ur5_ws/devel
+
+Name: husky_ur3_navigation
+Description: Description of husky_ur3_navigation
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
